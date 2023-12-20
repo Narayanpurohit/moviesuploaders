@@ -88,7 +88,7 @@ async def start(bot, update):
                     [
                         InlineKeyboardButton("▍║▍▏║ UPDATE ║▍▏║▍", url="https://t.me/+6CoF0hnHLnI5ZjRl"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢")], url="https:/url="https://www.instagram.com/lyrics_of_kstatus?igshid=NGVhN2U2NjQ0Yg==")],
+                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://www.instagram.com/lyrics_of_kstatus?igshid=NGVhN2U2NjQ0Yg==")],
                 ]
             ),
             reply_to_message_id=update.message_id
